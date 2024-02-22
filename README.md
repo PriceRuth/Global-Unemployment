@@ -3,6 +3,7 @@
 This is an analytical study about unemployment rate around the world. The data contains name of countries, sex, age categories, and unemployment percentage throughout the years.
 
 Soft Skills: Analytical thinking, Reasoning, Critical thinking, Organizing
+
 Hard Skills: Table Sorting, Visualization, For Looping, Python Matplotlib
 
 Insights:
